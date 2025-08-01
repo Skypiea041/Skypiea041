@@ -15,17 +15,22 @@ A Computer Science student at Rutgers University with a passion for developing A
 
 ### Technical Skills
 • Languages: Python, Java, C, C++, JavaScript, OCaml, SQL, Prolog, Scheme, HTML, CSS
+
 • Framework / Library: Flask, Pandas, NumPy, Docker, AWS (EC2, S3)
+
 • Tools: Git, GitHub, Linux, VSCode
+
 • AI & APIs: OpenAI API, Gemini API
 
 ---
 
 ### Featured Projects
 **Home Value Estimator** | _C_
+
 • Implemented a program that utilizes a training data set to learn weights for house attributes, applying these weights to input data for houses price calculation with matrix operations and the Gauss-Jordan elimination algorithm
 
 **AI Studio** | _TBD_
+
 • Engaged in industry-driven AI development through collaboration with engineers from leading tech companies on real-world machine learning applications and ethical AI practices
 
 --- 
