@@ -6,7 +6,9 @@
 A Computer Science student at Rutgers University with a passion for developing AI-powered solutions that solve real-world problems. Currently maintaining a 3.86 GPA while gaining hands-on experience through multiple AI/ML fellowships at Break Through Tech @ Cornell Tech and AI Studio, where I collaborate with industry professionals on cutting-edge machine learning applications.
 
 🎓 Computer Science at Rutgers University - New Brunswick
+
 💻 Interests: Web Development, Machine Learning, Cloud Computing, AI
+
 🌱 Currently learning: Python, JavaScript, SQL, AWS
 
 ---
@@ -29,4 +31,5 @@ A Computer Science student at Rutgers University with a passion for developing A
 --- 
 ### 📫 Connect with Me
 LinkedIn: https://www.linkedin.com/in/siying-lin-610935217/
+
 Email: skypiea041@gmail.com
